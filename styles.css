@@ -1,0 +1,17 @@
+span{
+    background-color: gold;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+.service-item:hover img {
+    transform: scale(1.1);
+}
+.service-item img {
+    transition: .5s;
+}
+a {
+    text-decoration: none;
+    color:white;
+}
